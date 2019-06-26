@@ -1,0 +1,8 @@
+django
+gunicorn
+django-heroku
+sanic
+lxml
+pyppeteer
+asyncio
+requests
