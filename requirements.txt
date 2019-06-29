@@ -1,6 +1,3 @@
-django
-gunicorn
-django-heroku
 sanic
 lxml
 pyppeteer
